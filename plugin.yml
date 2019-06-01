@@ -1,0 +1,5 @@
+name: MobCleaner
+main: me.drunkenmeows.mobcleaner.MobCleaner
+version: '1.00'
+author: drunkenmeows
+description: 'remove all but 10 mobs from unloaded chunks'
